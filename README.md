@@ -3,8 +3,8 @@
 ---
 id: taga3s
 belonging: School of Law, Waseda University
-languages:
-  - TypeScript
+interests:
+  - JavaScript and TypeScript
   - Rust
 website: https://taga3s.dev
 ```
