@@ -1,4 +1,4 @@
-## Hello there 🐳　
+## Hello there!
 ```yaml
 ---
 id: taga3s
